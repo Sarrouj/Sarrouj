@@ -18,7 +18,6 @@
 ![Shell](http://img.shields.io/badge/-Shell-c9c9c9?style=flat-square&logo=gnu-bash&logoColor=black)
 ![Php](http://img.shields.io/badge/-Php-767bb3?style=flat-square&logo=php&logoColor=white)
 
-![Vue.js](http://img.shields.io/badge/-Vue.js-41b883?style=flat-square&logo=vue.js&logoColor=white)
 ![Mysql](http://img.shields.io/badge/-Mysql-white?style=flat-square&logo=mysql)
 ![Git](http://img.shields.io/badge/-Git-white?style=flat-square&logo=git)
 ![Npm](http://img.shields.io/badge/-Npm-white?style=flat-square&logo=npm&logoColor=white)
