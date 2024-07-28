@@ -4,7 +4,6 @@
 ---
 
 - 🔭 I’m currently an Intern at Solicode Tanger Bootcamp
-- 🌱 I’m currently learning **vue**
 - 👨‍💻 All of my projects are available at [https://github.com/Sarrouj](https://github.com/Sarrouj)
 - 💬 Ask me about **javaScript**
 - 📫 How to reach me **sarroujzaid@gmail.com**
