@@ -20,7 +20,7 @@
 
 ![Mysql](http://img.shields.io/badge/-Mysql-white?style=flat-square&logo=mysql)
 ![Git](http://img.shields.io/badge/-Git-white?style=flat-square&logo=git)
-![Git](http://img.shields.io/badge/-Git-white?style=flat-square&logo=gitFlow)
+![mongoDB](http://img.shields.io/badge/-Git-white?style=flat-square&logo=MongoDB)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visualstudiocode&logoColor=3aa7f2)
 
 ### 💬 Contact Me
