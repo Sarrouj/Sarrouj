@@ -22,6 +22,7 @@
 ![Git](http://img.shields.io/badge/-Git-white?style=flat-square&logo=git)
 ![mongoDB](http://img.shields.io/badge/-MongoDB-white?style=flat-square&logo=MongoDB)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visualstudiocode&logoColor=3aa7f2)
+![VS Code](http://img.shields.io/badge/-Express.js-white?style=flat-square&logo=express.js&logoColor=3aa7f2)
 
 ### 💬 Contact Me
 
